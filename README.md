@@ -1,2 +1,2 @@
 # mini-projects
-Projects from https://www.youtube.com/@cozycoding
+Some small projects i do in free time.
